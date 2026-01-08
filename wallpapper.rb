@@ -3,7 +3,7 @@ require 'formula'
 class Wallpapper < Formula
   homepage 'https://github.com/nodite/wallpapper'
   url 'https://github.com/nodite/wallpapper/archive/1.7.5.tar.gz'
-  sha256 '5d099a7b09948307ccab4aca046e90ef5456c13cb826498a5a871205adb57afd'
+  sha256 'a1a470084d9b03af999e85f0e33cf8128aef05a5f11b16a0e4638feeee0580d0'
 
   head 'https://github.com/nodite/wallpapper.git'
 
